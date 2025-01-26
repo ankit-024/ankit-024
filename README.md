@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ankit Singh
 
 ### 🌟 About Me
-I am a passionate **Software Developer** and a **Final-Year Computer Science & Engineering Student** at **IIITDM Jabalpur, India**. I love diving deep into solving challenging problems and exploring new technologies. 
+I am a passionate **Full Stack Web Developer** and a **Final-Year Computer Science & Engineering Student** at **IIITDM Jabalpur, India**. I love diving deep into solving challenging problems and exploring new technologies. 
 
 - 🌱 **Currently Learning**: Deep Learning and sharpening my problem-solving skills.  
 - 🎯 **Goals**: 
@@ -31,9 +31,7 @@ I'm looking to collaborate on projects related to:
 - Backend services using **Golang**  
 
 ### 📫 How to Reach Me
-- Email: **chahitkolte21@gmail.com**  
+- Email: **ankitiiitdmj024@gmail.com**  
 - LinkedIn: [Ankit](https://www.linkedin.com/in/ankit-singh-0a3ba322b)  
 - GitHub: [Ankit](https://github.com/ankit-024)  
-
-### ⚡ Fun Fact
-I like to be in nature. 
+ 
