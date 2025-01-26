@@ -9,7 +9,7 @@ I am a passionate **Full Stack Web Developer** and a **Final-Year Computer Scien
   - Enhance my expertise in **JavaScript**, and **Python**.  
 
 ### 💻 Skills
-- **Languages**: C, C++,, Python, JavaScript  
+- **Languages**: C, C++, Python, JavaScript  
 - **Frameworks & Tools**: React.js, Node.js, Express.js, Tailwind CSS  
 - **Areas of Interest**: Data Science, Full-Stack Development, Problem Solving  
 
