@@ -26,10 +26,9 @@ I am a passionate **Full Stack Web Developer** and a **Final-Year Computer Scien
 
 
 ### 🤝 Let's Collaborate!
-I'm looking to collaborate on projects related to:  
-- Deep Learning and AI-based solutions  
+I'm looking to collaborate on projects related to:   
 - Full-Stack Web Development  
-- Backend services using **Golang**  
+
 
 ### 📫 How to Reach Me
 - Email: **ankitiiitdmj024@gmail.com**  
